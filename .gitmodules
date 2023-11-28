@@ -1,0 +1,3 @@
+[submodule "geoSPA/themes/tailbliss"]
+	path = geoSPA/themes/tailbliss
+	url = https://github.com/nusserstudios/tailbliss
